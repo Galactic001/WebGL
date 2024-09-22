@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(42, 42, 42);
+}
+
+h1{
+    color: #fff;
+}
+
+.btn {
+    background-color: rgb(194, 248, 156);
+    
+    width: auto;
+    height: auto;
+}
+
+.btn:hover {
+    background-color: rgb(152, 220, 104);
+}
+
+.input{
+    background-color: rgb(224, 224, 224);
+    text-align: center;
+    border-radius: 10px;
+    width: auto;
+    height: auto;
+
+}
+.Button {
+    padding: 20px 10px; 
+    text-align: center;
+}
